@@ -1,0 +1,1 @@
+LACosmicCL is a library for detecting and removing cosmic rays from astronomical images and spectra.  It uses laplacian edge detection to find cosmic rays.  This version uses OpenCL acceleration, which allows massively parallel computation on the GPU and effective multi-threading on the CPU.  Based on the method of P. G. van Dokkum, 2001, PASP, 113, 1420.
